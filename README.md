@@ -1,5 +1,8 @@
 ﻿# Hangman for Unity Editor
 
+![image](https://github.com/RimuruDev/Unity-HangmanGameEditorWindow/assets/85500556/29647175-e7b9-48ca-a4e5-3c86aa7ab8dd)
+
+
 A simple "Hangman" game developed for the Unity Editor. The player must guess the given word by choosing letters. The
 player has a limited number of attempts to guess the word before the game ends.
 
