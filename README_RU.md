@@ -1,4 +1,6 @@
-﻿# Виселица для Unity Editor
+﻿[English](README.md) | [Русский](README_RU.md)
+
+# Виселица для Unity Editor
 
  ![image](https://github.com/RimuruDev/Unity-HangmanGameEditorWindow/assets/85500556/f5d82c78-ebe7-4d72-bc98-383853e77dd0)
 

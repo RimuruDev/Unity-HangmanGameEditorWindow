@@ -1,4 +1,6 @@
-﻿# Hangman for Unity Editor
+﻿[English](README.md) | [Русский](README_RU.md)
+
+# Hangman for Unity Editor
 
 ![image](https://github.com/RimuruDev/Unity-HangmanGameEditorWindow/assets/85500556/29647175-e7b9-48ca-a4e5-3c86aa7ab8dd)
 
